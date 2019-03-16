@@ -18,7 +18,7 @@ header {
 	align: right;
 }
 div1 {
-	align: center;
+	box-align: center;
 }
 body {
 	background-color: rgb(18, 44, 53)
