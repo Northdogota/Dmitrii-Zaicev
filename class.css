@@ -1,0 +1,21 @@
+h1 {
+	text-align: right;
+	color: rgba(255, 0, 0, 1);
+	background-color: #00ff00;
+}
+p {
+	color:red;
+}
+div {
+	width: 200px;
+	height: 400px;
+    box-align: center;
+}
+header {
+	width 50%;
+	background-color: red;
+	align: right;
+}
+div1 {
+	align: center;
+}
